@@ -1,3 +1,4 @@
-# Hahotem Web Application
-This is the web application for [Hahotem|http://hahotem.com] (החוטם) Online Magazine.
+== Hahotem Web Application
+This is the web application for Hahotem (החוטם) Online Magazine.
 Hahotem.com is a magazine for Literature, Poetry and Art.
+link:http://hahotem.com
